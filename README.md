@@ -16,7 +16,6 @@ I am a full-stack software engineer.
 
 - 👨‍🎓 I'm a **Full Stack Software Engineer**
 - 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
 - 📬 How to reach me: [93enesmertkaya@gmail.com](mailto:93enesmertkaya@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1kSOgD_tpv720H85z-_kXP0mjQ4hoUrcz/view?usp=sharing).
 <h3 align="center">A passionate frontend developer from Turkey</h3>

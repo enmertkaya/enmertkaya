@@ -18,4 +18,4 @@ I am a full-stack software engineer.
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
 - 📬 How to reach me: [93enesmertkaya@gmail.com](mailto:93enesmertkaya@gmail.com)
-- 📝 [Resume]([https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing](https://drive.google.com/file/d/1kSOgD_tpv720H85z-_kXP0mjQ4hoUrcz/view?usp=sharing)https://drive.google.com/file/d/1kSOgD_tpv720H85z-_kXP0mjQ4hoUrcz/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1kSOgD_tpv720H85z-_kXP0mjQ4hoUrcz/view?usp=sharing).

@@ -1,6 +1,7 @@
 # Welcome to [Enes Mert's](https://enmertkaya.me/) profile! <a href="https://www.enmertkaya.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https:/linkedin.com/in/enes-mert-kaya-8b09761aa" target="_blank"><img align="center" 
+<a href="https://www.linkedin.com/in/enes-mert-kaya-8b09761aa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
 
 
 ## Glad to see you here! &nbsp; 

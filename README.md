@@ -17,7 +17,7 @@ I am a full-stack software engineer.
 - 👨‍🎓 I'm a **Full Stack Software Engineer**
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: [93enesmertkaya@gmail.com](mailto:93enesmertkaya@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1kSOgD_tpv720H85z-_kXP0mjQ4hoUrcz/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/13tlDjx7HT5CwkEZzTkVSwQYbjhhKjnkl/view?usp=sharing).
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmertkaya&label=Profile%20views&color=0e75b6&style=flat" alt="enmertkaya" /> </p>

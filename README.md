@@ -8,7 +8,7 @@
 - 👨‍🎓 I'm a **Full Stack Software Engineer**
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: [93enesmertkaya@gmail.com](mailto:93enesmertkaya@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/15f93eUS__2WANI6UiY-PWLLPuTXUTSIO/view?usp=sharing).
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmertkaya&label=Profile%20views&color=0e75b6&style=flat" alt="enmertkaya" /> </p>
 <p align="left">
